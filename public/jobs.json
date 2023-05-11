@@ -1,0 +1,111 @@
+[
+    {
+      "id": 1,
+      "companyLogo": "/assets/All Images/google-1-1 1.png",
+      "jobTitle": "Technical Database Engineer",
+      "companyName": "Google LLC",
+      "remoteOrOnsite": "Onsite",
+      "location": "1600 Amphitheatre Parkway, Mountain View, USA",
+      "fulltimeOrParttime": "Fulltime",
+      "salaryRangePerMonth": "80-120",
+      "jobDescription": "We are looking for a Technical Database Engineer to join our team and help us build and maintain our databases.",
+      "jobResponsibility": "Design, develop, and maintain databases for our products and services",
+      "educationalRequirements": "Bachelor's or Master's degree in Computer Science or related field",
+      "experienceInYears": "3+",
+      "contactInformation": {
+        "phone": "+1 650-253-0000",
+        "email": "jobs@google.com"
+      }
+    },
+    {
+      "id": 2,
+      "companyLogo": "/assets/All Images/netflix-4 1.png",
+      "jobTitle": "Senior Product Designer",
+      "companyName": "Netflix",
+      "remoteOrOnsite": "Remote",
+      "location": "Los Gatos, USA",
+      "fulltimeOrParttime": "Fulltime",
+      "salaryRangePerMonth": "100-150",
+      "jobDescription": "We are seeking a Senior Product Designer to join our team and help us create compelling user experiences for our global streaming service.",
+      "jobResponsibility": "Create and implement design solutions that meet user needs and business goals",
+      "educationalRequirements": "Bachelor's or Master's degree in Design or related field",
+      "experienceInYears": "5+",
+      "contactInformation": {
+        "phone": "+1 408-540-3700",
+        "email": "jobs@netflix.com"
+      }
+    },
+    {
+      "id": 3,
+      "companyLogo": "/assets/All Images/tesla-9 1.png",
+      "jobTitle": "Software Engineer",
+      "companyName": "Tesla",
+      "remoteOrOnsite": "Onsite",
+      "location": "Fremont, USA",
+      "fulltimeOrParttime": "Fulltime",
+      "salaryRangePerMonth": "90-130",
+      "jobDescription": "We are looking for a Software Engineer to join our team and help us build software that powers our electric vehicles and energy products.",
+      "jobResponsibility": "Design, develop, and maintain software for our products and services",
+      "educationalRequirements": "Bachelor's or Master's degree in Computer Science or related field",
+      "experienceInYears": "3+",
+      "contactInformation": {
+        "phone": "+1 888-518-3752",
+        "email": "jobs@tesla.com"
+      }
+    },
+    {
+      "id": 4,
+      "companyLogo": "/assets/All Images/google-1-1 1.png",
+      "jobTitle": "Senior Software Engineer",
+      "companyName": "Google LLC",
+      "remoteOrOnsite": "Onsite",
+      "location": "1600 Amphitheatre Parkway, Mountain View, USA",
+      "fulltimeOrParttime": "Fulltime",
+      "salaryRangePerMonth": "120-180",
+      "jobDescription": "We are looking for a Senior Software Engineer to join our team and help us build and maintain our products and services.",
+      "jobResponsibility": "Design, develop, and maintain software for our products and services",
+      "educationalRequirements": "Bachelor's or Master's degree in Computer Science or related field",
+      "experienceInYears": "3+",
+      "contactInformation": {
+        "phone": "+1 650-253-0000",
+        "email": "jobs@google.com"
+      }
+    },
+    {
+        "id": 5,
+        "companyLogo": "https://cdn.pixabay.com/photo/2013/02/12/09/07/microsoft-80658_960_720.png",
+        "jobTitle": "ML Engineer",
+        "companyName": "Microsoft",
+        "remoteOrOnsite": "Onsite",
+        "location": "One Microsoft Way, Redmond, USA",
+        "fulltimeOrParttime": "Fulltime",
+        "salaryRangePerMonth": "100-150",
+        "jobDescription": "We are looking for an ML Engineer to join our team and help us build and maintain our machine learning systems.",
+        "jobResponsibility": "Design, develop, and maintain machine learning models and systems",
+        "educationalRequirements": "Bachelor's or Master's degree in Computer Science or related field",
+        "experienceInYears": "3+",
+        "contactInformation": {
+          "phone": "+1 425-882-8080",
+          "email": "jobs@microsoft.com"
+        }
+      },
+      {
+        "id": 6,
+        "companyLogo": "https://img.freepik.com/free-vector/meta-logo-file-social-media-icon-vector-3-november-2021-bangkok-thailand_53876-157873.jpg?w=150&t=st=1681199398~exp=1681199998~hmac=3178054f3de88bd4d8dfb952e4f12512b3b3ddebf0191e24f6b96d21814f4c2b",
+        "jobTitle": "Data Scientist",
+        "companyName": "Meta",
+        "remoteOrOnsite": "Remote",
+        "location": "Menlo Park, USA",
+        "fulltimeOrParttime": "Fulltime",
+        "salaryRangePerMonth": "120-180",
+        "jobDescription": "We are seeking a Data Scientist to join our team and help us analyze large amounts of data to drive insights and decision-making.",
+        "jobResponsibility": "Design, develop, and implement data-driven solutions to complex business problems",
+        "educationalRequirements": "Bachelor's or Master's degree in Data Science, Statistics, or related field",
+        "experienceInYears": "5+",
+        "contactInformation": {
+          "phone": "+1 650-308-7300",
+          "email": "jobs@meta.com"
+        }
+      }
+]
+  
